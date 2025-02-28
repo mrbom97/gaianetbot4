@@ -22,7 +22,7 @@ RETRY_DELAY = 5  # Seconds between retries
 QUESTION_DELAY = 1  # Seconds between successful questions
 
 QUESTIONS = [
-"What are the characteristics of African Elephant?,
+"What are the characteristics of african elephant?,
 "What are the characteristics of Bengal Tiger?,
 "What are the characteristics of Polar Bear?,
 "What are the characteristics of Bottlenose Dolphin?,
